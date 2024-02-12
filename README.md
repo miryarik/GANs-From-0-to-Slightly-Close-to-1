@@ -2,4 +2,5 @@
 A collection of various implementations useful to learn to build and train GANs, from basic to (hopefully) advanced.
 
 Credits :
+
 Jason Brownlee - Machine Learning Mastery.
