@@ -1,1 +1,3 @@
+Goal : To implement a model that takes an outline sketch and gives out a colored image
 
+1 : model takes grey and gives out color
